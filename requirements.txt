@@ -1,0 +1,30 @@
+# Core data processing
+datasets>=2.14.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning and NLP
+scikit-learn>=1.2.0
+sentence-transformers>=2.2.0
+gensim>=4.3.0
+nltk>=3.8.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.0
+pyLDAvis>=3.4.0
+
+# Utilities
+tqdm>=4.65.0
+scipy>=1.10.0
+
+# Optional: faster computation (uncomment if using GPU)
+# torch>=2.0.0
+# torchvision>=0.15.0
+# torchaudio>=2.0.0
+
+# Jupyter (if running notebook locally)
+jupyter>=1.0.0
+ipykernel>=6.20.0
+nbformat>=5.7.0
