@@ -9,11 +9,11 @@ How has the focus, framing, and communication of AI/ML/NLP research changed over
 
 
 Repository Structure
-
+```
 ├── README.md                          # This file
 ├── Text_AI_assignment.ipynb          # Main analysis notebook (all cells)
 ├── requirements.txt                   # Python dependencies
-
+```
 
 Pipeline
 
