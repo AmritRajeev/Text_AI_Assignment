@@ -7,6 +7,11 @@ This project analyzes how research focus, framing, and communication have change
 Research Question
 How has the focus, framing, and communication of AI/ML/NLP research changed over time, and how do different text analytics methods affect the insights we can draw?
 
+Team Members:
+
+•	Weizhu Zhao, Abdulaziz Almuhanna, Raphael Raji, Dixit Kaloorani, Amrit Rajeev
+
+
 
 Repository Structure
 ```
