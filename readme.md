@@ -8,6 +8,7 @@ Research Question
 How has the focus, framing, and communication of AI/ML/NLP research changed over time, and how do different text analytics methods affect the insights we can draw?
 
 Team Members:
+```
 Member	           |   Primary Responsibility
 ____________________|_____________________________________________________
 Weizhu Zhao         |	EDA and data preprocessing 
@@ -15,7 +16,7 @@ Amrit Rajeev        |   TF-IDF, SBERT embeddings, and LDA implementation
 Abdulaziz Almuhanna |	Comparison and evaluation of alternative approaches 
 Raphael Raji	     |   Performance metrics and classification analysis 
 Dixit Manna         |	Data visualization and final report consolidation 
-
+```
 
 
 Repository Structure
